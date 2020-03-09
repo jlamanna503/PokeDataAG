@@ -1,0 +1,12 @@
+Package: PokeDataAG
+Type: Package
+Title: Analysis Group Training Dataset
+Version: 0.1.0
+Author: James LaManna
+Maintainer: James LaManna <james.lamanna@analysisgroup.com>
+Description: Contains datasets for Analysis Group R training.
+    Datasets contain characteristics of various types of Pokemon. 
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
